@@ -13,7 +13,7 @@ If Python is not installed at all, see the documentation here: https://www.pytho
 <h3>Clone the Repository</h3>
 Once you are sure Python 2.7 is installed correctly execute the following:
 
-$ git clone https://github.com/p00gz/udacity-movie-trailer-website.git<br>
+$ git clone https://github.com/sinhaDroid/create-movie-website.git<br>
 $ cd create-movie-website
 
 <h3>Execute the program:</h3>
